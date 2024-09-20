@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <style name="Theme.AppJoga" parent="android:Theme.Material.Light.NoActionBar" />-->
+    <style name="Theme.AppJoga" parent="Theme.AppCompat.Light" />
+</resources>
